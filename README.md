@@ -1,4 +1,6 @@
-## Hello,  ![Tuxedo Cat Gif]()
+## Hello.
+
+<img alt="Tuxedo Cat Gif" src="tuxedo-cat.gif" width="250" height="250"/>
 
 An aspiring Software Engineer from Sarawak, Malaysia. I love to build stuff.
 
@@ -10,3 +12,4 @@ Other than that,
 - I love Physics and Maths
 - I love a lot of stuff in life
 
+<img alt="Bob the Builder Gif" src="bob-the-builder.gif"/>
