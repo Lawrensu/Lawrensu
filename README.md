@@ -6,9 +6,11 @@
 
 I love to build stuff. Currently studying in Swinburne University of Technology Sarawak taking Bachelor of Computer Science.
 
+```
 Other than that,
 - I love God
 - I do variety of content in my social medias
 - I love cars and bikes.
 - I love Physics and Maths
 - I love a lot of other stuff in life
+```
