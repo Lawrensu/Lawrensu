@@ -1,6 +1,6 @@
 ## Hello.
 
-<img alt="Tuxedo Cat Gif" src="tuxedo-cat.gif" width="250" height="250"/> <img alt="Bob the Builder Gif" src="bob-the-builder.gif" width="335" height="335"/>
+<img alt="Tuxedo Cat Gif" src="tuxedo-cat.gif" width="250" height="250"/> 
 
 ### An aspiring Software Engineer from Sarawak, Malaysia. 
 
