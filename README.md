@@ -3,7 +3,7 @@
 <img alt="Tuxedo Cat Gif" src="tuxedo-cat.gif" width="250" height="250"/> 
 
 ### An aspiring Software Engineer from Sarawak, Malaysia.
-And maybe a little bit of AI for that final touch.
+And maybe a little bit of AI for that final touch, and also the Noxian Emperor.
 
 ---
 
@@ -15,4 +15,6 @@ Other than that,
 - I love cars and bikes
 - I love Physics and Mathematics, and some others
 - I love a lot of other stuff in life
+
+- I will make it happen.
 ```
