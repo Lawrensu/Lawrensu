@@ -1,7 +1,7 @@
 ## Hello.
 
 <div align="center">
-  <img src="YOUR_GIF_URL_HERE.gif" alt="Alt text describing your GIF" />
+  <img src="tuxedo-cat.gif" alt="Me fr" />
 </div>
 ---
 
