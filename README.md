@@ -1,7 +1,7 @@
 ## Hello.
 
 <div align="center">
-  <img src="tuxedo-cat.gif" alt="Me fr" />
+  <img src="tuxedo-cat.gif" alt="Me fr" width="250" height="250"/>
 </div>
 ---
 
