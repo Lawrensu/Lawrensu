@@ -4,6 +4,8 @@
   <img src="tuxedo-cat.gif" alt="Me fr" width="250" height="250"/>
 </div>
 
+#### My name is Lawrence, call me Law
+
 ---
 
 <strong>An aspiring Software Engineer or Full-Stack Dev (whatever you want to call it)</strong> <br>
