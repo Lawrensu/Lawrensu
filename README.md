@@ -1,20 +1,19 @@
 ## Hello.
 
-<img alt="Tuxedo Cat Gif" src="tuxedo-cat.gif" width="250" height="250"/> 
-
-### An aspiring Software Engineer from Sarawak, Malaysia.
-And maybe a little bit of AI for that final touch, and also the Noxian Emperor.
-
+<div align="center">
+  <img src="YOUR_GIF_URL_HERE.gif" alt="Alt text describing your GIF" />
+</div>
 ---
 
-I love to build stuff that has meaning/value to it. Currently studying in Swinburne University of Technology, Sarawak, taking Bachelor of Computer Science.
+<strong>An aspiring Software Engineer or full-stack dev (whatever you want to call it)</strong>
+And maybe a little bit of AI for that final touch, and also the Noxian Emperor.
+
+I love to build stuff that has meaning/value to it, or simply just for the love of the game. Currently taking Bachelor of Computer Science, and brainstorming my own start-up.
 
 ```
 Other than that,
 - I do variety of content in my social media
-- I love cars and bikes
-- I love Physics and Mathematics, and some others
-- I love a lot of other stuff in life
+- I love a lot of stuff in life such as hiking, rock climbing, bla bla bla
 
 - I will make it happen.
 ```
